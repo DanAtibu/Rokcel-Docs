@@ -31,7 +31,7 @@
       "url": "api-reference"
     },
     {
-        "name": "OpenAPI Reference",
+        "tab": "OpenAPI Reference",
         "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
     }
   ],
