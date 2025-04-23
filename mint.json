@@ -49,7 +49,7 @@
     },
     {
      "name": "API Reference",
-     "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
+     "openapi": "https://8df1-154-117-225-153.ngrok-free.app/v1/platform/openapi",
      "url": "api-reference",
      "icon": "square-terminal"
    }
