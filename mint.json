@@ -29,10 +29,6 @@
     {
       "name": "API Reference",
       "url": "api-reference"
-    },
-    {
-        "tab": "OpenAPI Reference",
-        "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
     }
   ],
   "anchors": [
@@ -50,7 +46,13 @@
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://rokcel.com/blog"
-    }
+    },
+    {
+     "name": "API Reference",
+     "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
+     "url": "api-reference",
+     "icon": "square-terminal"
+   }
   ],
   "navigation": [
     {
