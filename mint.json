@@ -29,6 +29,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+        "name": "OpenAPI Reference",
+        "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
     }
   ],
   "anchors": [
@@ -49,10 +53,6 @@
     }
   ],
   "navigation": [
-    {
-        "group": "API Reference",
-        "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
-    },
     {
       "group": "API Documentation",
       "pages": [
