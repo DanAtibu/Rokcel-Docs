@@ -40,7 +40,7 @@
     },
     {
      "name": "API Reference",
-     "openapi": "https://8df1-154-117-225-153.ngrok-free.app/v1/platform/openapi",
+     "openapi": "https://api.rokcel.com/v1/platform/openapi",
      "url": "get-started",
      "icon": "square-terminal"
    }
