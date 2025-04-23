@@ -8,11 +8,11 @@
   "favicon": "https://dpictures.s3.amazonaws.com/PayLipa/app-logo.png",
   "colors": {
     "primary": "#f36d24",
-    "light": "#07C983",
+    "light": "#f36d24",
     "dark": "#f36d24",
     "anchors": {
       "from": "#f36d24",
-      "to": "#07C983"
+      "to": "#f36d24"
     }
   },
   "topbarLinks": [
