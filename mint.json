@@ -41,7 +41,7 @@
     {
      "name": "API Reference",
      "openapi": "https://8df1-154-117-225-153.ngrok-free.app/v1/platform/openapi",
-     "url": "openapi",
+     "url": "get-started/openapi",
      "icon": "square-terminal"
    }
   ],
@@ -56,7 +56,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
+    "x": "https://x.com/rokcel_",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
