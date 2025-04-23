@@ -41,11 +41,17 @@
     {
      "name": "API Reference",
      "openapi": "https://8df1-154-117-225-153.ngrok-free.app/v1/platform/openapi",
-     "url": "api-reference",
+     "url": "openapi",
      "icon": "square-terminal"
    }
   ],
   "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "get-started/introduction"
+      ]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
